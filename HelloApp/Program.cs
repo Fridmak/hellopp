@@ -1,4 +1,2 @@
-﻿void GreetWhite()
-{
-    Console.WriteLine("hello white");
-}
+// See https://aka.ms/new-console-template for more information
+Console.WriteLine("hello everyone");
